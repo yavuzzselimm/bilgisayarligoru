@@ -70,5 +70,3 @@ Sistem saydığı objeleri numaralandırarak orijinal resmin yanına `..._sayilm
 
 ---
 
-## 👨‍💻 Geliştirici
-Yavuz Selim
